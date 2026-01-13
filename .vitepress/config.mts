@@ -22,7 +22,12 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/cubeindex-project/CubingAtlas' }
+    ],
+
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: `Copyright © 2026-${new Date().getFullYear()} <a href="https://github.com/cubeindex-project">CubeIndex Project</a>`,
+    }
   }
 })

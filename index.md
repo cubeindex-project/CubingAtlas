@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "CubingAtlas"
-  text: "The curated directory for speedcubers."
-  tagline: My great project tagline
+  text: Find the best tools for your needs.
+  tagline: The curated directory for speedcubers.
   actions:
     - theme: brand
       text: Markdown Examples
