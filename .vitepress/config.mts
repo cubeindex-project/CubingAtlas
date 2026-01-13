@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "CubingAtlas",
   description: "The curated directory for speedcubers.",
+  // sitemap: {
+  //   hostname: 'https://example.com'
+  // },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
