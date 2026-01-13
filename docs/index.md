@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "CubingAtlas"
+  name: CubingAtlas
   text: Find the best tools for your needs.
   tagline: The curated directory for speedcubers.
+  image:
+    src: public/logo.png
+    alt: CubingAtlas
   actions:
     - theme: brand
       text: Markdown Examples
