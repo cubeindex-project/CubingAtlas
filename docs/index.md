@@ -7,22 +7,22 @@ hero:
   text: Find the best tools for your needs.
   tagline: The curated directory for speedcubers.
   image:
-    src: public/logo.png
+    src: /logo.png
     alt: CubingAtlas
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: About Us
+      link: /about
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Contribute
+      link: /guide/contribute
 
 features:
-  - title: Feature A
+  - title: Timers
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Trainers
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Communities
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

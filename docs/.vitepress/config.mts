@@ -9,7 +9,11 @@ export default defineConfig({
   // },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: 'public/logo.png',
+    logo: '/logo.png',
+
+    search: {
+      provider: 'local'
+    },
 
     nav: [
       { text: 'Home', link: '/' },
@@ -18,11 +22,15 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Tools',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
+      },
+      {
+        text: 'Contribute',
+        link: '/guide/contribute'
       }
     ],
 
