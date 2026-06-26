@@ -29,7 +29,7 @@
 
 - [speedcubing.fr](https://www.speedcubing.fr/) / [Statistiques Speedcubing](https://stats.speedcubing.fr/index.php)
 
-## Russian / Русский
+## Russian / Pусский
 
 - Russian Speedcubing / [YouTube](https://www.youtube.com/@RuSpeedcubing)
 - [CCCSTORE](https://cccstore.ru/) / [YouTube](https://www.youtube.com/@CCCSTORE)
@@ -59,14 +59,14 @@
 - [PLL Master](https://play.google.com/store/apps/details?id=cube.analysis.pll_recognize_app&pcampaignid=web_share)
 - [Cube Cross Trainer](https://play.google.com/store/apps/details?id=com.gachicube.sampleCross)
 
-## Portugese / 
+## Portugese / Português
 
 - [Associação Brasileira de Cubo Mágico](https://www.abracm.org.br/)
 
-## Italian /
+## Italian / Italiano
 
 - [Associazione Italiana di Speedcubing](https://www.cubingitaly.it/)
 
-## Swiss
+## Swedish / Svenska
 
 - [SveKub](https://svekub.se/)
