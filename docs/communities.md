@@ -23,3 +23,6 @@
 - [acubemy](https://discord.gg/GFtuK7PQbB) - the official Discord server of acubemy
 - [Cubanormal](https://discord.gg/bRnq8paFDk)
 - [FMC Solvers](https://discord.gg/cpF5ReAMJQ)
+- [Straughan's Development Server](https://discord.gg/GJB2ER2Q3M)
+- [Method Development](https://discord.gg/xtZaubNkzg)
+- [Nautilus Method](https://discord.gg/eV2Tm3Qc3k)

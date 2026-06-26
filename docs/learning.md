@@ -19,6 +19,9 @@
 - [Hitchhiker’s Guide to HTR](https://docs.google.com/document/d/1_NMlyPh2Ifd1E0ivos-15Sp-by-KPxoOsj9JD4pJuHI/edit)
 - [Hitchhiker’s Guide to FMC](https://docs.google.com/document/d/16nu10y1JkUmVDC11c1h_ULzAl4Vze7zR/edit)
 - [Solving Rubik's Cube for speed By Lars Petrus](https://lar5.com/cube/)
+- [Nautilus](https://sites.google.com/view/nautilus-method)
+- [APB](https://sites.google.com/view/apb-system)
+- [APB Mega Doc](https://docs.google.com/document/d/1GznSart4lglO9Q6Q5tLZazRysr5a6D5WnmQ5ouMIOnc/edit)
 
 ## Coaching
 
