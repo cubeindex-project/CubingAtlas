@@ -4,9 +4,12 @@ layout: home
 
 hero:
   name: CubingAtlas
-  tagline: Find your next best
+  tagline: Find the best cubing tools and ressources for your needs!
   actions:
     - theme: brand
+      text: Beta Feedback
+      link: https://github.com/cubeindex-project/CubingAtlas/issues/new
+    - theme: alt
       text: About Us
       link: /about
     - theme: alt
