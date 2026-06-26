@@ -4,33 +4,57 @@ layout: home
 
 hero:
   name: CubingAtlas
-  text: Find the best tools for your needs.
-  tagline: The curated directory for speedcubers.
-  image:
-    src: /logo.png
-    alt: CubingAtlas
+  tagline: Find your next best
   actions:
     - theme: brand
       text: About Us
       link: /about
     - theme: alt
       text: Contribute
-      link: /guide/contribute
+      link: /contribute
 
 features:
   - title: Timers
-    details: Time your solves.
+    details: Cross-platform and browser-based speedcubing timers to track your solves.
     link: /timers
-    icon: |
-      <svg height="500" viewBox="0 0 500 500" width="500" xmlns="http://www.w3.org/2000/svg"><path d="m250 40c-115.97979 0-210 94.0202-210 210s94.02021 210 210 210 210-94.0202 210-210-94.02021-210-210-210zm0 19.09375 50.6875 177.375h-.03125c1.28561 4.57324 1.96875 9.38875 1.96875 14.375 0 29.18623-23.5544 52.84375-52.625 52.84375-29.07061 0-52.625-23.65752-52.625-52.84375 0-4.98625.68314-9.80176 1.96875-14.375h-.0625zm0 65.8125-33.34375 116.65625h.03125c-.84551 3.00771-1.3125 6.15815-1.3125 9.4375 0 19.19513 15.50592 34.75 34.625 34.75 19.11911 0 34.625-15.55487 34.625-34.75 0-3.27935-.46699-6.42979-1.3125-9.4375h.03125z"/></svg>
-  - title: Trainers
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Shops
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Communities
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Cubes
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: https://thecubeindex.com/explore/cubes
----
+    
+  - title: Learning Resources
+    details: Resources to help you learn to solve twisty puzzles.
+    link: /learning
 
+  - title: Trainers
+    details: Dedicated tools to train CFOP, Roux, ZZ, and more.
+    link: /trainers
+
+  - title: Communities
+    details: Communities to connect with other cubers.
+    link: /communities
+
+  - title: Solvers
+    details: Find optimal solutions and solve algorithms for various twisty puzzles.
+    link: /solvers
+
+  - title: Development Software
+    details: Libraries, and tools for speedcubing software developers.
+    link: /dev-software
+
+  - title: Shops
+    details: Explore local and international twisty puzzle retailers.
+    link: https://thecubeindex.com/explore/vendors
+
+  - title: Cubes
+    details: Browse and track mechanical speedcubes from different brands.
+    link: https://thecubeindex.com/explore/cubes
+
+  - title: Dead Projects
+    details: An archive of historical and inactive cubing websites and software.
+    link: /dead
+
+  - title: Non-English
+    details: Speedcubing resources in languages other than English.
+    link: /non-english
+
+  - title: Miscellaneous
+    details: Other unique speedcubing tools that doesn't fit into any category.
+    link: /misc
+---
