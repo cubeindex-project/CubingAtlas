@@ -17,6 +17,7 @@
 - [Roux Trainer](https://onionhoney.github.io/roux-trainers) - Rubik's cube trainer / solver for the Roux method / [GitHub](https://github.com/onionhoney/roux-trainers)
 - [ALLG-Trainer](https://mihlefeld.github.io/Alg-Trainers/index.html) / [GitHub](https://github.com/mihlefeld/Alg-Trainers)
 - [Megaminx Last Layer Trainers by Reinier Schippers](https://reinierschippers.nl/)
+- [MBLD Trainer](https://ikdknt2.github.io/mbld-trainer/) - a small 3x3 Multi-Blind training log tool
 
 ### Website CFOP trainers
 
