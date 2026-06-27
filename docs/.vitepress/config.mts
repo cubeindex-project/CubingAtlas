@@ -7,11 +7,18 @@ export default defineConfig({
   sitemap: {
     hostname: "https://atlas.thecubeindex.com",
   },
+  lastUpdated: true,
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
       provider: "local",
+    },
+
+    editLink: {
+      pattern:
+        "https://github.com/cubeindex-project/CubingAtlas/edit/main/docs/:path",
+      text: "Edit this page on GitHub",
     },
 
     nav: [
