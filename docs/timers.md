@@ -3,8 +3,8 @@
 ## Web timers
 
 - :star: [CSTimer](https://cstimer.net) - a professional timing program designed for Rubik's cube speedsolvers / [GitHub](https://github.com/cs0x7f/cstimer)
-- :star: [Acubemy](https://acubemy.com) - The Smart Cube App to Unleash Your Full Cubing Potential / [Android](https://play.google.com/store/apps/details?id=com.acubemy.acubemy) / [iOS](https://apps.apple.com/us/app/acubemy/id6760343507)
-- :star: [Nexus Timer](https://nexustimer.com) - NexusTimer builds your cubing performance profile automatically, per cube, per category. / [Android](https://play.google.com/store/apps/details?id=com.nexustimer) / [GitHub](https://github.com/bryanlundberg/NexusTimer)
+- [Acubemy](https://acubemy.com) - The Smart Cube App to Unleash Your Full Cubing Potential / [Android](https://play.google.com/store/apps/details?id=com.acubemy.acubemy) / [iOS](https://apps.apple.com/us/app/acubemy/id6760343507)
+- [Nexus Timer](https://nexustimer.com) - NexusTimer builds your cubing performance profile automatically, per cube, per category. / [Android](https://play.google.com/store/apps/details?id=com.nexustimer) / [GitHub](https://github.com/bryanlundberg/NexusTimer)
 - [Kitsune Cube](https://kitsunecube.com/) - A gamified smart cube companion / [GitHub](https://github.com/gisketch/kitsune-cube) / [Discord](https://discord.gg/7rfBYFA9BB)
 - [CubeDesk](https://www.cubedesk.io/) - The most advanced Rubik's Cube timer, trainer, analytics, and community. / [GitHub](https://github.com/kash/cubedesk) / [Discord](https://discord.gg/wdVbhDnsQV) / [Reddit](https://www.reddit.com/r/cubedesk/) / [Instagram](https://www.instagram.com/cubedesk)
 - [Cubeast](https://www.cubeast.com/) - By leveraging the Bluetooth connectivity of modern cubes Cubeast aims to provide a new set of insights and tools to help you become a better cuber
