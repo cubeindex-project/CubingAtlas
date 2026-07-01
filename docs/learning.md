@@ -22,6 +22,8 @@
 - [Nautilus](https://sites.google.com/view/nautilus-method)
 - [APB](https://sites.google.com/view/apb-system)
 - [APB Mega Doc](https://docs.google.com/document/d/1GznSart4lglO9Q6Q5tLZazRysr5a6D5WnmQ5ouMIOnc/edit)
+- [Cube Quests](https://www.cubequests.com/) - An Essential Collection of Cubing Resources / [Discord](https://discord.com/invite/sAPunhpUpH) / [YouTube](https://www.youtube.com/@CubeQuests.22)
+- [Hoya](https://www.ocf.berkeley.edu/~dadams/hoya/)
 
 ## Coaching
 

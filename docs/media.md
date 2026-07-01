@@ -26,6 +26,7 @@
 - The Cubing Critics / [YouTube](https://www.youtube.com/@TheCubingCritics)
 - [SpeedCubeReview](https://www.speedcubereview.com/) / [YouTube](https://www.youtube.com/@SpeedCubeReview)
 - Cubanormal / [YouTube](https://www.youtube.com/@Cubanormal)
+- Cubeorithms / [YouTube](https://www.youtube.com/@Cubeorithms)
 
 ## Podcasts
 

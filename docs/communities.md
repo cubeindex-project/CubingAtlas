@@ -4,6 +4,7 @@
 
 - [SpeedSolving Forum](https://www.speedsolving.com/) / [Local Cubing Groups](https://www.speedsolving.com/forums/local-cubing-groups.43/)
   - [Older cubers discussions](https://www.speedsolving.com/threads/older-cubers-discussions.37405/)
+- [cubingplace.net](https://cubingplace.net/) - A chill corner of the internet for people who love turning colorful plastic.
 
 ## Reddit
 
@@ -26,3 +27,4 @@
 - [Straughan's Development Server](https://discord.gg/GJB2ER2Q3M)
 - [Method Development](https://discord.gg/xtZaubNkzg)
 - [Nautilus Method](https://discord.gg/eV2Tm3Qc3k)
+- [FTO Fan Club](https://discord.gg/dtANps9nKd)

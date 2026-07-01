@@ -5,6 +5,7 @@
 - [World Cube Association](https://www.worldcubeassociation.org/) - The World Cube Association governs competitions for mechanical puzzles commonly known as 'twisty puzzles' / [Competitions](https://www.worldcubeassociation.org/competitions) / [Records](https://www.worldcubeassociation.org/results/records) / [WCA Live](https://live.worldcubeassociation.org/) / [YouTube](https://www.youtube.com/@WorldCubeAssociationOfficial) / [GitHub](https://github.com/thewca/worldcubeassociation.org)
 - [CubingUSA](https://cubingusa.org/) - CubingUSA's goal is to support and grow the US speedcubing community. We organize the US National Championships every summer
 - [Speedcubing Australia](https://www.speedcubing.org.au/) - a not-for-profit, wholly volunteer-run organisation dedicated to supporting the Australian speedcubing community
+- [Utah Cubing](https://utahcubing.org/) - a non-profit organization dedicated to promoting speedcubing and organizing competitions in Utah and Idaho
 
 ## Others
 

@@ -2,6 +2,7 @@
 
 ## Websites
 
+- [Rubik’s Cube Explorer](https://iamthecu.be/) - An interactive presentation to help you understand the basics of Rubik’s Cube
 - [virtualcube.app](https://virtualcube.app/) - A fast, browser-based virtual speedcube with leaderboard, replays and customisable keybindings & graphics
 - [speedcube.site](https://speedcube.site/) - a free platform for virtual speedcubing
 - [qCube v2](https://mzrg.com/js/qcube-v2.html)
@@ -17,5 +18,5 @@
 
 ## Mobile
 
-- [Magic Cube Collection](https://play.google.com/store/apps/details?id=com.bigcube.magiccubes)
-- [Magic Cube](https://play.google.com/store/apps/details?id=org.distorted.magic)
+- Magic Cube Collection / [Android](https://play.google.com/store/apps/details?id=com.bigcube.magiccubes)
+- Magic Cube / [Android](https://play.google.com/store/apps/details?id=org.distorted.magic)

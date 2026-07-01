@@ -9,3 +9,5 @@
 - Kyuubi / [Launch Announcement](https://www.reddit.com/r/Cubers/comments/s59dur/demo_of_my_recently_released_cube_timer_app_on/) / [GitHub](https://github.com/C2H6Ethan/Kyuubi)
 - gCube / [GitHub](https://github.com/molarmanful/gCube) - A Rubik's Cube visualizer
 - Birdflu / [GitHub](https://github.com/larspetrus/Birdflu) - An exhaustive Rubik's Cube LL position and algorithm database
+- Windows Mobile Scrambler/Timer / [Launch Announcement](https://www.speedsolving.com/threads/windows-mobile-scrambler-timer-work-in-progress.18437/)
+- Cubealot.com - Cube Price Comparison / [Launch Announcement](https://www.speedsolving.com/threads/cubealot-com-cube-price-comparison.63673/)

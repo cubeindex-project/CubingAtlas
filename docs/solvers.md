@@ -15,7 +15,7 @@
 
 ## Mobile solvers
 
-- [ASolver](https://play.google.com/store/apps/details?id=ru.bnice.asolver)
+- ASolver / [Android](https://play.google.com/store/apps/details?id=ru.bnice.asolver)
 - CubeXpert / [Android](https://play.google.com/store/apps/details?id=com.visionflutter.cubexpert)
 - Cube Solver / [Android](https://play.google.com/store/apps/details?id=com.jeffprod.cubesolver) / [iOS](https://apps.apple.com/us/app/cube-solver-3d/id1673039373)
 - [Cube Solver](https://cubesolver.ai/) - Instant Rubik's Cube Solver / [Android](https://play.google.com/store/apps/details?id=cn.com.delta.cube.solver) / [iOS](https://apps.apple.com/us/app/cubesolver-ai-magic-cube-3d/id6446157329)

@@ -50,14 +50,18 @@
 
 ## Japanese / 日本語
 
+### Organizations / 団体
+
+[SCJ](https://speedcubing.or.jp/)
+
 ### Databases / データベース
 
 [Cubing.JP](https://www.cubing.jp/) - キューブ製品の情報コミュニティーサイト (Cube product information community site)
 
 ### Trainers / トレーナー
 
-- [PLL Master](https://play.google.com/store/apps/details?id=cube.analysis.pll_recognize_app&pcampaignid=web_share)
-- [Cube Cross Trainer](https://play.google.com/store/apps/details?id=com.gachicube.sampleCross)
+- PLL Master / [Android](https://play.google.com/store/apps/details?id=cube.analysis.pll_recognize_app&pcampaignid=web_share)
+- Cube Cross Trainer / [Android](https://play.google.com/store/apps/details?id=com.gachicube.sampleCross)
 
 ## Portugese / Português
 

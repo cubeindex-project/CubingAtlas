@@ -37,4 +37,4 @@
 
 - SpeedCube Trainer / [Android](https://play.google.com/store/apps/details?id=com.mycompany.speedcubetrainer)
 - CubeNook / [Android](https://play.google.com/store/apps/details?id=jp.seiichirou.cube_lbl_memo) / [iOS](https://apps.apple.com/app/cubenook/id1544644116)
-- Vertex: Cube Trainer / [iOS](https://apps.apple.com/app/vertex-cube-trainer/id6754180019)
+- :moneybag: Vertex: Cube Trainer / [iOS](https://apps.apple.com/app/vertex-cube-trainer/id6754180019)

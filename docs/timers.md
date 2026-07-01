@@ -16,6 +16,7 @@
 - [Speedcube.app](https://speedcube.app/) / [GitHub](https://github.com/alecrios/speedcube)
 - [3SetTimer](https://benpa.ng/3settimer/) - Built on an older version of MinimalisTimer; 3x3 subset trainer / [GitHub](https://github.com/molarmanful/3settimer)
 - [qqTimer](https://mzrg.com/qqtimer/) / [Documentation](https://mzrg.com/qqtimer/megadoc.html)
+- [Cubemania](https://cubemania.org/) - track of your times, compare yourself with others and become the best
 - [TNoodleTimer](https://www.jfly.fyi/tnt/) - an online timer based off the code used for generating official WCA competition scrambles
 - [ScratchSolveTimer](https://scratch.mit.edu/projects/883347502/)
 - [CubeRaceTimer](https://cuberacetimer.lovable.app/)
@@ -25,6 +26,7 @@
 ## Desktop timers
 
 - [Block Keeper](https://dallasmcneil.com/projects/blockkeeper/) - A cross platform desktop cubing timer. / [GitHub](https://github.com/DallasMcNeil/Block-Keeper)
+- [CMOS](https://speed-cmos.com/index.html) - A modern speedcubing timer to enhance your cubing progress / [Download](https://speed-cmos.com/download.html) / [v2](https://speed-cmos.com/v2/)
 - [Tempus](https://github.com/RonSkons/Tempus-Cube-Timer)
 
 ## Mobile timers
@@ -50,6 +52,7 @@
 - DCTimer-Android / [GitHub](https://github.com/MeigenChou/DCTimer-Android)
 - cuberly / [iOS](https://apps.apple.com/us/app/cuberly-cube-timer-stats/id6751474235)
 - Cube Timer X / [Android](https://play.google.com/store/apps/details?id=com.Slurple.cube_timer_x)
+- Nano Timer / [Android](https://play.google.com/store/apps/details?id=com.cube.nanotimer)
 
 ## Tournament timers
 

@@ -16,6 +16,7 @@
 - QubeDB / [iOS](https://apps.apple.com/de/app/qubedb/id6760085999)
 - Solve Rubik's Cube - Deddal / [iOS](https://apps.apple.com/app/solve-rubiks-cube-deddal/id6739811192)
 - Algorubick / [Android](https://play.google.com/store/apps/details?id=com.jorotayo.algorubickrevamped)
+- [Dan's Cubing Cheat Sheet App](https://cubingcheatsheet.com/)
 
 ## Puzzles
 
