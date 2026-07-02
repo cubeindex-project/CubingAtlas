@@ -18,6 +18,7 @@
 - [ALLG-Trainer](https://mihlefeld.github.io/Alg-Trainers/index.html) / [GitHub](https://github.com/mihlefeld/Alg-Trainers)
 - [Megaminx Last Layer Trainers by Reinier Schippers](https://reinierschippers.nl/)
 - [MBLD Trainer](https://ikdknt2.github.io/mbld-trainer/) - a small 3x3 Multi-Blind training log tool
+- [MinxLastLayer](https://minxlastlayer.com/) - learn, identify & recognize every Megaminx last-layer case
 
 ### Website CFOP trainers
 

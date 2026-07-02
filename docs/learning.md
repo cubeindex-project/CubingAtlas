@@ -2,6 +2,7 @@
 
 ## Methods Documentation
 
+- [SolveTheCube](https://solvethecube.com/)
 - [cubeskills](https://www.cubeskills.com/) - The home of speedcubing tutorials developed by Feliks Zemdegs / [YouTube](https://www.youtube.com/@CubeSkills/featured)
 - [Rubik's](https://www.rubiks.com/) / [Solution Guides](https://www.rubiks.com/solution-guides#more-solves)
 - [Sarah's Cubing Site](https://sarah.cubing.net/) - "My ultimate goal with this site is to add as many of the algorithms I've learned, or want to eventually learn" - Sarah Strong / [Sarah's Skewb Method](https://sarah.cubing.net/skewb/my-method) / [Sarah's 3x3x3 Beginner Method](https://sarah.cubing.net/my-beginner-method.html) / [WCA Profile](https://www.worldcubeassociation.org/persons/2007STRO01)

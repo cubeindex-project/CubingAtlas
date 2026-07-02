@@ -8,6 +8,7 @@
 - [Kitsune Cube](https://kitsunecube.com/) - A gamified smart cube companion / [GitHub](https://github.com/gisketch/kitsune-cube) / [Discord](https://discord.gg/7rfBYFA9BB)
 - [CubeDesk](https://www.cubedesk.io/) - The most advanced Rubik's Cube timer, trainer, analytics, and community. / [GitHub](https://github.com/kash/cubedesk) / [Discord](https://discord.gg/wdVbhDnsQV) / [Reddit](https://www.reddit.com/r/cubedesk/) / [Instagram](https://www.instagram.com/cubedesk)
 - [Cubeast](https://www.cubeast.com/) - By leveraging the Bluetooth connectivity of modern cubes Cubeast aims to provide a new set of insights and tools to help you become a better cuber
+- [zen timer](https://zen.priyanshu.org/) - A distraction-free, all-in-one speedcubing timer / [GitHub](https://github.com/priyanshush325/zen-timer)
 - [Timiks](https://timiks.com/) / [GitHub](https://github.com/ngerritsen/timiks)
 - [Artifex Cube](https://artifexcube.com/) - The smart cube timer that shows where you lose time.
 - [SpeedCube Master](https://speedcubemaster.app) - Learn to solve your cube faster and discover the best methods with Speedcube Master / [Android](https://play.google.com/store/apps/details?id=com.scmapptemp) / [Discord](https://discord.gg/uTv2sV9zU2)
