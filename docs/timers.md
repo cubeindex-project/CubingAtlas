@@ -61,6 +61,7 @@
 - [cubers.io](https://www.cubers.io) - Participate in WCA-style speedcubing competitions! / [Launch Announcement](https://www.reddit.com/r/Cubers/comments/9ercig/launch_of_cubersio/)
 - [Cubing Time](https://cubingtime.com/)
 - [vscubing](https://vscubing.com/landing) - Join the exciting world of virtual speedcubing / [GitHub](https://github.com/vscubing)
+- [Cube Battle Live](https://cubebattlelive.com/)
 
 ## Special timers
 
