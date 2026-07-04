@@ -32,3 +32,4 @@
 - [Cubing Contests](https://cubingcontests.com/) - a place for hosting unofficial Rubik's Cube competitions / [GitHub](https://github.com/mintydev789/RecordRanks)
 - [Hagis](https://basilio.dev/cubing/#Software) - A graphical interface solver for people who want to test out algorithms / [Windows](https://basilio.dev/cubing/Hagis-v04.zip) / [OSX](https://basilio.dev/cubing/Hagis.app-v06.zip) / [Linux](https://basilio.dev/cubing/Hagis-x86_64.AppImage)
 - [CubeTwister](https://www.randelshofer.ch/cubetwister/index.html) - a tool to solve your scrambled cube, to document your collection of cubes, to describe your solution algorithms, and to analyse the permutations of cube parts
+- [CubeComp Notifier](https://cubecompnotifier.live/) - CubeComp Notifier emails you whenever a new WCA competition is announced near you
