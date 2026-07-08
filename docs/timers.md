@@ -23,6 +23,7 @@
 - [CubeRaceTimer](https://cuberacetimer.lovable.app/)
 - [CUBETimer](http://www.cubetimer.com/)
 - [dandytimer](https://dandytimer.com/) - A timer, primarily for cubing / [GitHub](https://github.com/danieldylla/dandytimer)
+- [Cubyqo.app](https://cubyqo.app/)
 
 ## Desktop timers
 
