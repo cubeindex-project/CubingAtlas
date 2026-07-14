@@ -24,6 +24,7 @@
 - [CUBETimer](http://www.cubetimer.com/)
 - [dandytimer](https://dandytimer.com/) - A timer, primarily for cubing / [GitHub](https://github.com/danieldylla/dandytimer)
 - [Cubyqo.app](https://cubyqo.app/)
+- [SpeedCubeTimer](https://speedcubetimer.vercel.app/)
 
 ## Desktop timers
 

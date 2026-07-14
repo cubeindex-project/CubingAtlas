@@ -9,6 +9,7 @@
 - [qCube bandaged](https://mzrg.com/js/qcube-v2-bandaged.html)
 - [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054)
 - [Grubiks](https://www.grubiks.com/) - Online 3D Puzzles and Solvers
+- [Magic Cube Puzzle Web App](https://cube-puzzle.com/) - A magic cube puzzle simulator web app for touch devices and desktop computers.
 
 ## Desktop
 

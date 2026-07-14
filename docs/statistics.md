@@ -11,6 +11,7 @@
 
 - [Kuebiko Cubing](https://www.kuebiko-cubing.com/) - Analyze speedcubing timers export data with interactive charts and data insights / [GitHub](https://github.com/anton-3/kuebiko-cubing)
 - [Fancy Charts Generator](https://basilio.dev/cubing/#Software) - Chart generator for solve times distribution. / [OSX](https://basilio.dev/cubing/BasFancyCharts.app.zip) / [Windows](https://basilio.dev/cubing/BasFancyCharts.rar)
+- [Session-Analyzer](https://github.com/itsfprime/Session-Analyzer) - A simple Java application which statistically interprets speedcubing session data exported from CSTimer.net
 
 ## Other statistics
 
