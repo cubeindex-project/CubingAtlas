@@ -15,6 +15,7 @@
 - [cTimer](https://ctimer.rider.biz/)
 - [MinimalisTimer](https://benpa.ng/minimalistimer/) - A "simple" twisty puzzle timer optimized for both desktop and mobile. / [Material](https://benpa.ng/minimalistimer/material.html) / [GitHub](https://github.com/molarmanful/minimalistimer)
 - [Speedcube.app](https://speedcube.app/) / [GitHub](https://github.com/alecrios/speedcube)
+- [ScrambleCube](https://www.scramblecube.com/) - Connect a Bluetooth smart cube and turn every solve into insight
 - [3SetTimer](https://benpa.ng/3settimer/) - Built on an older version of MinimalisTimer; 3x3 subset trainer / [GitHub](https://github.com/molarmanful/3settimer)
 - [qqTimer](https://mzrg.com/qqtimer/) / [Documentation](https://mzrg.com/qqtimer/megadoc.html)
 - [Cubemania](https://cubemania.org/) - track of your times, compare yourself with others and become the best
@@ -25,9 +26,11 @@
 - [dandytimer](https://dandytimer.com/) - A timer, primarily for cubing / [GitHub](https://github.com/danieldylla/dandytimer)
 - [Cubyqo.app](https://cubyqo.app/)
 - [SpeedCubeTimer](https://speedcubetimer.vercel.app/)
+- [Cube Club Timer](https://cubeclub.online/) / [iOS](https://apps.apple.com/gb/app/cube-club-timer/id6757330850)
 
 ## Desktop timers
 
+- [YACT](https://yact.app/) - The advanced timer for smart cubes. Smart analytics, real-time playback, and head-to-head racing / [YouTube](https://www.youtube.com/@yetanothercubetimer)
 - [Block Keeper](https://dallasmcneil.com/projects/blockkeeper/) - A cross platform desktop cubing timer. / [GitHub](https://github.com/DallasMcNeil/Block-Keeper)
 - [CMOS](https://speed-cmos.com/index.html) - A modern speedcubing timer to enhance your cubing progress / [Download](https://speed-cmos.com/download.html) / [v2](https://speed-cmos.com/v2/)
 - [Tempus](https://github.com/RonSkons/Tempus-Cube-Timer)
@@ -56,6 +59,7 @@
 - cuberly / [iOS](https://apps.apple.com/us/app/cuberly-cube-timer-stats/id6751474235)
 - Cube Timer X / [Android](https://play.google.com/store/apps/details?id=com.Slurple.cube_timer_x)
 - Nano Timer / [Android](https://play.google.com/store/apps/details?id=com.cube.nanotimer)
+- [SpeedCube Timer](https://speedcubetimer.net/?lang=en) / [Android](https://play.google.com/store/apps/details?id=com.projects.pelayo.speedcubetimer&hl=en) / [iOS](https://apps.apple.com/us/app/speedcube-timer-app/id6758778843)
 
 ## Tournament timers
 

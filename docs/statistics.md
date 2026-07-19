@@ -6,6 +6,7 @@
 - [WCA Statistics](https://wca.cuber.pro/)
 - [Senior Rankings](https://wca-seniors.org/)
 - [Senior Cubing Tracker](https://pglewis.github.io/senior-cubing-tracker/)
+- [CubeStats](https://www.cubestats.in/) - Explore the entire WCA database with natural language, and analyze your own solve history.
 
 ## Personal Solves Statistics
 

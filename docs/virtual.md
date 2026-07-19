@@ -10,6 +10,7 @@
 - [pCubes](https://twistypuzzles.com/forum/viewtopic.php?f=1&t=27054)
 - [Grubiks](https://www.grubiks.com/) - Online 3D Puzzles and Solvers
 - [Magic Cube Puzzle Web App](https://cube-puzzle.com/) - A magic cube puzzle simulator web app for touch devices and desktop computers.
+- [hi-games.net](https://hi-games.net/cube/) - Virtual 3x3x3 cube simulator with highscores and animated replays!
 
 ## Desktop
 
@@ -21,3 +22,4 @@
 
 - Magic Cube Collection / [Android](https://play.google.com/store/apps/details?id=com.bigcube.magiccubes)
 - Magic Cube / [Android](https://play.google.com/store/apps/details?id=org.distorted.magic)
+- Kubo Virtual Speedcube / [Android](https://play.google.com/store/apps/details?id=com.kubo.virtualcube)

@@ -23,6 +23,7 @@
 - [CubeIndex](https://thecubeindex.com) - Track your cubes, unlock achievements, and explore the world's largest cube database. / [GitHub](https://github.com/cubeindex-project/CubeIndex) / [Discord](https://thecubeindex.com/discord)
 - [TwistyPuzzles.com](https://twistypuzzles.com) - The most comprehensive site for all around twisty puzzles / [Forum](https://twistypuzzles.com/forum/) / [Articles](https://twistypuzzles.com/articles/) / [Solutions](https://twistypuzzles.com/app/solutions/puzzle_solutions.php)
 - [Jaap's Puzzle Page](https://www.jaapsch.net/puzzles/) / [Graphical overview](https://www.jaapsch.net/puzzles/indxgraf.htm)
+- [Frank’s Puzzle Library](https://www.tiex.de/cubecorner/index.php) - An independent searchable catalogue of physical twisty puzzles with photographs
 
 ## Reconstructions
 

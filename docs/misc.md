@@ -34,3 +34,4 @@
 - [CubeTwister](https://www.randelshofer.ch/cubetwister/index.html) - a tool to solve your scrambled cube, to document your collection of cubes, to describe your solution algorithms, and to analyse the permutations of cube parts
 - [CubeComp Notifier](https://cubecompnotifier.live/) - CubeComp Notifier emails you whenever a new WCA competition is announced near you
 - [WCA Competitions Tracker](https://chromewebstore.google.com/detail/wca-competitions-tracker/gecaloboiggfhbpbmegpeflkcochbljn)
+- [Rubik's Cube Generator](https://mikhael-said.github.io/rubikscubegenerator/)
