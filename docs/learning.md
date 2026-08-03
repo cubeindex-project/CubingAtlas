@@ -37,6 +37,7 @@
 - [Cubing](https://cubing.co/)
 - [Cubzor](https://www.cubzor.com/) - a fun, engaging, and challenging experience to mastering the iconic puzzle!
 - [Cubey](https://playcubey.com/) - Practice on a smooth 3D simulator, get a step-by-step solution for any scramble, and follow guided lessons
+- [SpeedcubeQuest](https://speedcube.quest/) - Everything to take you from your first solve to full CFOP.
 
 ## Mobile Software
 
