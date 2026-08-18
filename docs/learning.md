@@ -31,6 +31,7 @@
 - [Cube Academy](https://cube.academy)
 - [CubingGG](https://www.cubing.gg/) - Cubing educational tools and resources to help you break your PBs in no time at all! / [App](https://app.cubing.gg/)
 - [SolveBoost](https://solveboost.com/) - A Rubik's cube coaching service by James Alonso / [Competition Simulator](https://solveboost.com/simulator)
+- [CubingHQ](https://www.cubinghq.online/) - Your personal AI speedcubing coach.
 
 ## Website
 
