@@ -1,0 +1,64 @@
+name: Check links
+
+on:
+  pull_request:
+    paths:
+      - "docs/**"
+      - ".lychee.toml"
+      - ".lycheeignore"
+
+  push:
+    branches:
+      - main
+
+  schedule:
+    - cron: "0 6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-links:
+    name: Check Markdown links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --config lychee.toml
+            --root-dir "${{ github.workspace }}/docs"
+            "docs/**/*.md"
+          output: links-report.md
+          format: markdown
+          fail: false
+          jobSummary: true
+          token: ${{ github.token }}
+
+      - name: Upload link report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-report
+          path: links-report.md
+
+      - name: Create comment with report
+        id: report-comment
+        uses: peter-evans/create-or-update-comment@v5
+        if: always()
+        with:
+          token: ${{ github.token }}
+          issue-number: 4
+          body: |
+            ## Automated link check
+
+            The full report is available as the `link-check-report` artifact:
+
+            ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}

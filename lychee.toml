@@ -1,0 +1,57 @@
+#############################  Display  #############################
+
+# Verbose program output
+# Accepts log level: "error", "warn", "info", "debug", "trace"
+verbose = "info"
+
+# Output display mode
+mode = "emoji"
+
+# Don't show interactive progress bar while checking links.
+no_progress = true
+
+#############################  Cache  ###############################
+
+# Enable link caching. This can be helpful to avoid checking the same links on
+# multiple runs.
+cache = true
+
+# Discard all cached requests older than this duration.
+max_cache_age = "1d"
+
+# A list of status codes that will be ignored from the cache
+cache_exclude_status = "500.."
+
+#############################  Runtime  #############################
+
+# Maximum number of allowed redirects.
+max_redirects = 10
+
+# Maximum number of allowed retries before a link is declared dead.
+max_retries = 2
+
+# Maximum number of concurrent link checks.
+max_concurrency = 14
+
+# extension applied to files without extension
+default_extension = "md"
+
+#############################  Requests  ############################
+
+# Minimum wait time in seconds between retries of failed requests.
+retry_wait_time = 2
+
+# Comma-separated list of accepted status codes for valid links.
+accept = ["200..=299", "403", "429"]
+
+# Fallback extensions to apply when a URL does not specify one.
+# This is common in documentation tools that cross-reference files without extensions.
+fallback_extensions = ["md", "html"]
+
+#############################  Hosts  #############################
+
+# Maximum simultaneous requests to the same host
+host_concurrency = 5
+
+# Minimum interval between requests to the same host
+host_request_interval = "50ms"

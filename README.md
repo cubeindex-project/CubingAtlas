@@ -2,6 +2,6 @@
 
 The curated directory for speedcubers.
 
-### LICENSE
+## LICENSE
 
 This project is under the GPL-3.0 license

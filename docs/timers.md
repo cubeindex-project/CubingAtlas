@@ -22,7 +22,7 @@
 - [TNoodleTimer](https://www.jfly.fyi/tnt/) - an online timer based off the code used for generating official WCA competition scrambles
 - [ScratchSolveTimer](https://scratch.mit.edu/projects/883347502/)
 - [CubeRaceTimer](https://cuberacetimer.lovable.app/)
-- [CUBETimer](http://www.cubetimer.com/)
+- [CUBETimer](https://www.cubetimer.com/)
 - [dandytimer](https://dandytimer.com/) - A timer, primarily for cubing / [GitHub](https://github.com/danieldylla/dandytimer)
 - [Cubyqo.app](https://cubyqo.app/)
 - [SpeedCubeTimer](https://speedcubetimer.vercel.app/)
@@ -46,7 +46,6 @@
 - The Cube App / [iOS](https://apps.apple.com/us/app/the-cube-app/id1247162314)
 - Finger Timer / [Android](https://play.google.com/store/apps/details?id=air.tw.url.omega.FingerTimer) / [iOS](https://apps.apple.com/us/app/finger-timer/id586062009)
 - CubeX / [Android](https://play.google.com/store/apps/details?id=diozz.cubex)
-- Cubify Timer / [Android](https://play.google.com/store/apps/details?id=com.cubify.app) / [iOS](https://apps.apple.com/us/app/cubify-timer/id6762560032)
 - Cuby / [iOS](https://apps.apple.com/us/app/cuby-intuitive-cube-timer/id1583455340)
 - DCTimer Lite / [iOS](https://apps.apple.com/app/dctimer-lite/id1567730180)
 - The Speedcuber Timer / [Android](https://play.google.com/store/apps/details?id=org.speedcuber.timer) / [iOS](https://apps.apple.com/us/app/the-speedcuber-timer/id6468855171)
