@@ -1,7 +1,7 @@
 # Dead Projects
 
 - speedcube.io / [Launch Announcement](https://www.speedsolving.com/threads/speedcube-io-enters-closed-beta.90944/)
-- CubeZila - An all-in-one speedcubing website designed to bring everything you need into one place / [Launch Announcement](https://www.speedsolving.com/threads/introducing-cubezila-%E2%80%93-a-fresh-alternative-to-cs-timer.94985/)
+- CubeZila - An all-in-one speedcubing website designed to bring everything you need into one place / [Launch Announcement](https://www.speedsolving.com/threads/introducing-cubezila-%E2%80%93-a-fresh-alternative-to-cs-timer.94985/) / [GitHub](https://github.com/Mostafaeldiwany123/cubezila)
 - Virtual Cube / [Launch Announcement](https://www.speedsolving.com/threads/virtualcube-win-releases-on-jan-21.96222/)
 - HARCS / [Launch Announcement](https://www.speedsolving.com/threads/harcs-jarcs-replacement-cube-solver.63241/)
 - Prisma Puzzle Timer / [Launch Announcement](https://www.speedsolving.com/threads/prisma-puzzle-timer.25790/)
