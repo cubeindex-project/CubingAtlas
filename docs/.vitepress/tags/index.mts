@@ -2,7 +2,7 @@ import { MarkdownRenderer } from "vitepress";
 
 type TagTypes = 'info' | 'note' | 'tip' | 'important' | 'caution' | 'warning' | 'danger'
 
-type TagKeys = "timer" | "paid"
+type TagKeys = "timer" | "paid" | "podcast"
 
 interface TagDefinition {
     label: string
@@ -20,6 +20,10 @@ export const atlasTags: Tags = {
     label: "Paid",
     type: "warning",
   },
+  podcast: {
+    label: "Podcast",
+    type: 'info'
+  }
 } as const;
 
 export function tagsPlugin(md: MarkdownRenderer) {
