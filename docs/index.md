@@ -20,7 +20,7 @@ features:
   - title: Timers
     details: Cross-platform and browser-based speedcubing timers to track your solves.
     link: /timers
-    
+
   - title: Learning Resources
     details: Resources to help you learn to solve twisty puzzles.
     link: /learning
