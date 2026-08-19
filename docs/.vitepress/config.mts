@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import { tagsPlugin } from "./tags/index.mts";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -82,6 +83,12 @@ export default defineConfig({
     footer: {
       message: "Released under the GPL-3.0 License.",
       copyright: `Copyright © 2026-${new Date().getFullYear()} <a href="https://github.com/cubeindex-project">CubeIndex Project</a>`,
+    },
+  },
+
+  markdown: {
+    config(md) {
+      tagsPlugin(md)
     },
   },
 

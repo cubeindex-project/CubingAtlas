@@ -50,7 +50,7 @@
 - Cuby / [iOS](https://apps.apple.com/us/app/cuby-intuitive-cube-timer/id1583455340)
 - DCTimer Lite / [iOS](https://apps.apple.com/app/dctimer-lite/id1567730180)
 - The Speedcuber Timer / [Android](https://play.google.com/store/apps/details?id=org.speedcuber.timer) / [iOS](https://apps.apple.com/us/app/the-speedcuber-timer/id6468855171)
-- :moneybag: FiveTimer / [Android](https://play.google.com/store/apps/details?id=com.thesixsides.cincotimer)
+- FiveTimer `paid` / [Android](https://play.google.com/store/apps/details?id=com.thesixsides.cincotimer)
 - [CubeStation](https://arena.ganrobot.com/) / [iOS](https://apps.apple.com/us/app/cubestation-new/id6473158674) / [Android](https://play.google.com/store/apps/details?id=com.gan.cubestation)
 - Cube Timer / [Android](https://play.google.com/store/apps/details?id=com.eduardo_rsor.apps.cubetimer)
 - GoCube™ / [Android](https://play.google.com/store/apps/details?id=com.particula.gocube) / [iOS](https://apps.apple.com/us/app/gocube/id1451476777)
