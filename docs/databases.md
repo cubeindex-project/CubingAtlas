@@ -12,7 +12,7 @@
 - [BLDDB](https://blddb.net/) - 3BLD Algorithms Database / [v2](https://v2.blddb.net/) / [Documentation](https://docs.blddb.net/)
 - [CubeBase](https://cube-base.vercel.app/) - the largest interactive 3D database of Rubik's cube algorithms
 - [JPerm.net](https://jperm.net/)
-- [Birdflu](https://birdflu.lar5.com/) / [GitHub](https://github.com/larspetrus/Birdflu) - An exhaustive Rubik's Cube LL position and algorithm database
+- [Birdflu](https://birdflu.lar5.com/) - An exhaustive Rubik's Cube LL position and algorithm database / [GitHub](https://github.com/larspetrus/Birdflu)
 - [Lars Vandenbergh's CubeZone - ZB First Two Layers](https://www.cubezone.be/zbf2l.html)
 - QubeDB / [iOS](https://apps.apple.com/de/app/qubedb/id6760085999)
 - Solve Rubik's Cube - Deddal / [iOS](https://apps.apple.com/app/solve-rubiks-cube-deddal/id6739811192)
