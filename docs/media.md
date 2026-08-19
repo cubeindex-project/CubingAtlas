@@ -27,7 +27,8 @@
 - [SpeedCubeReview](https://www.speedcubereview.com/) / [YouTube](https://www.youtube.com/@SpeedCubeReview)
 - Cubanormal / [YouTube](https://www.youtube.com/@Cubanormal)
 - Cubeorithms / [YouTube](https://www.youtube.com/@Cubeorithms)
-- SpeedcubingTv `podcast` / [YouTube](https://www.youtube.com/@Speedcubing-TV)
+- SpeedcubingTv `podcast` / [YouTube](https://www.youtube.com/@Speedcubing-TV) / [The Millisecond](https://www.youtube.com/playlist?list=PLmkpW75x3632FdFU8s0E-He97iO6vrZsP) / [+3](https://www.youtube.com/playlist?list=PLmkpW75x36335cs98e6k774sE9vWli3F0)
+- cyoubx / [YouTube](https://www.youtube.com/@cyoubx) / [My Personal Onion](https://www.youtube.com/playlist?list=PLM4KMnB4J82Qk8C_P1ldVjS8sezQvGTMe)
 
 ## Podcasts
 
