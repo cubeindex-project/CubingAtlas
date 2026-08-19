@@ -2,8 +2,10 @@
 
 ## Websites
 
+- [kSim 2](http://ksim.kirjava.xyz/) - a rubik's cube simulator and toolkit / [GitHub](https://github.com/kirjavascript/kSim)
 - [Rubik’s Cube Explorer](https://iamthecu.be/) - An interactive presentation to help you understand the basics of Rubik’s Cube
 - [virtualcube.app](https://virtualcube.app/) - A fast, browser-based virtual speedcube with leaderboard, replays and customisable keybindings & graphics
+- [kSim](http://snk.digibase.ca/ksim_trainer.htm)
 - [speedcube.site](https://speedcube.site/) - a free platform for virtual speedcubing
 - [qCube v2](https://mzrg.com/js/qcube-v2.html)
 - [qCube bandaged](https://mzrg.com/js/qcube-v2-bandaged.html)

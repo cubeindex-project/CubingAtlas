@@ -34,6 +34,7 @@
 
 - Cubing Couch Podcast / [YouTube](https://www.youtube.com/@CubingCouchPodcast) / [Spotify](https://open.spotify.com/show/1PNyAaJfkDemH4AjikChjv?si=322a27a1f86c4f1d)
 - Layer by Layer - a Cubing Podcast (ostensibly) about cubing and Rubik's Cubes / [Spotify](https://open.spotify.com/show/3bFOR1Yu8vvyxVihmBIcOR?si=bb853f7b7442478a)
+- The Interactive Cubers / [YouTube](https://www.youtube.com/@theinteractivecubers8296)
 
 ## News platform
 

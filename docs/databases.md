@@ -18,6 +18,7 @@
 - Solve Rubik's Cube - Deddal / [iOS](https://apps.apple.com/app/solve-rubiks-cube-deddal/id6739811192)
 - Algorubick / [Android](https://play.google.com/store/apps/details?id=com.jorotayo.algorubickrevamped)
 - [Dan's Cubing Cheat Sheet App](https://cubingcheatsheet.com/)
+- [BLD algs collection](http://bestsiteever.ru/tables/) - the list of BLD algorithms tables developed by different people / [SpeedSolving Thread](https://www.speedsolving.com/threads/a-collection-of-bld-algorithms-lists.65238/)
 
 ## Puzzles
 
