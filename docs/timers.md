@@ -72,3 +72,4 @@
 
 - [swift](https://swiftcuber.com/) - A free browser based timer which uses your webcam and hand tracking to copy the WCA comp routine
 - [Audio Timer](https://basilio.dev/cubing/#Software) - A timer that uses your microphone to detect pauses/split in solves, or to auto-split algs executions. / [OSX](https://basilio.dev/cubing/CubingPauseCalculator.app.zip) / [Windows](https://basilio.dev/cubing/CubingPauseCalculator.zip)
+- [Kybos](https://kyboscube.com/) - Race Kybos head-to-head, then replay its solution and compare its approach with your own.
