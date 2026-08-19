@@ -86,8 +86,5 @@ export default defineConfig({
   },
 
   vite: {
-    server: {
-      allowedHosts: ["code.fluffy-solfege.ts.net"],
-    },
   },
 });
