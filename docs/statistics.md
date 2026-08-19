@@ -2,7 +2,7 @@
 
 ## Competition Statistics
 
-- [Official WCA Statistics](https://statistics.worldcubeassociation.org/)
+- [Official WCA Statistics](https://statistics.worldcubeassociation.org/) / [Record Evolution](https://statistics.worldcubeassociation.org/record-evolution)
 - [WCA Statistics](https://wca.cuber.pro/)
 - [Senior Rankings](https://wca-seniors.org/)
 - [Senior Cubing Tracker](https://pglewis.github.io/senior-cubing-tracker/)
