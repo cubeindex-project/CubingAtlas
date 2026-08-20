@@ -14,3 +14,4 @@
 - [Visual Cube Plus](https://visualcubeplus.com) - Drawing tool for regular 3x3 cubes
 - [alg.cubing.net](https://alg.cubing.net/)
 - [cubing.rs](https://github.com/cubing/cubing.rs) - Features from cubing.js in Rust
+- [Cube State Engine](https://bryanlundberg.github.io/cube-state-engine/) / [GitHub](https://github.com/bryanlundberg/cube-state-engine) / [npm](https://www.npmjs.com/package/cube-state-engine)
