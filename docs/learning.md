@@ -23,7 +23,7 @@
 - [Nautilus](https://sites.google.com/view/nautilus-method)
 - [APB](https://sites.google.com/view/apb-system)
 - [APB Mega Doc](https://docs.google.com/document/d/1GznSart4lglO9Q6Q5tLZazRysr5a6D5WnmQ5ouMIOnc/edit)
-- [Cube Quests](https://www.cubequests.com/) - An Essential Collection of Cubing Resources / [Discord](https://discord.com/invite/sAPunhpUpH) / [YouTube](https://www.youtube.com/@CubeQuests.22)
+- [Cube Quests](https://www.cubequests.com/) - An Essential Collection of Cubing Resources / [Discord](https://discord.com/invite/sAPunhpUpH)
 - [Hoya](https://www.ocf.berkeley.edu/~dadams/hoya/)
 - [The objectively and measurably best way to learn ZBLL. The Anki approach.](https://www.speedsolving.com/threads/the-objectively-and-measurably-best-way-to-learn-zbll-the-anki-approach.73925/)
 - [Noah's 3-Style Tutorial](https://www.speedsolving.com/threads/noahs-3-style-tutorial.39409/)
