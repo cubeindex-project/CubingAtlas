@@ -21,6 +21,7 @@
 - [Cubemania](https://cubemania.org/) - track of your times, compare yourself with others and become the best
 - [TNoodleTimer](https://www.jfly.fyi/tnt/) - an online timer based off the code used for generating official WCA competition scrambles
 - [Tagda Timer](https://tagdatimer.vercel.app/)
+- [Rubix](https://rubix.lahvi.cz/) - A timer and trainer for the 3×3 cube which times solves phase by phase to show where the seconds go.
 - [ScratchSolveTimer](https://scratch.mit.edu/projects/883347502/)
 - [CubeRaceTimer](https://cuberacetimer.lovable.app/)
 - [CUBETimer](https://www.cubetimer.com/)
