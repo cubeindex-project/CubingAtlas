@@ -20,6 +20,7 @@
 - [qqTimer](https://mzrg.com/qqtimer/) / [Documentation](https://mzrg.com/qqtimer/megadoc.html)
 - [Cubemania](https://cubemania.org/) - track of your times, compare yourself with others and become the best
 - [TNoodleTimer](https://www.jfly.fyi/tnt/) - an online timer based off the code used for generating official WCA competition scrambles
+- [Tagda Timer](https://tagdatimer.vercel.app/)
 - [ScratchSolveTimer](https://scratch.mit.edu/projects/883347502/)
 - [CubeRaceTimer](https://cuberacetimer.lovable.app/)
 - [CUBETimer](https://www.cubetimer.com/)
