@@ -5,6 +5,7 @@
 - [RubiksSolverDemo](https://or18.github.io/RubiksSolverDemo/) / [GitHub](https://github.com/or18/RubiksSolverDemo)
 - [CubeSolver](https://rubiks-cube-solver-app.vercel.app/)
 - [Cube](https://zomaxx.wasmer.app/) - This application solves the Rubik's Cube using the Beginner's Method
+- [CubeSnap](https://cubesnap.app/) - Solve a Rubik's cube from two photos. / [iOS](https://apps.apple.com/us/app/cubesnap-cube-solver/id6778213510)
 
 ## Desktop solvers
 

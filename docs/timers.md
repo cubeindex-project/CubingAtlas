@@ -42,6 +42,7 @@
 - [Block Keeper](https://dallasmcneil.com/projects/blockkeeper/) - A cross platform desktop cubing timer. / [GitHub](https://github.com/DallasMcNeil/Block-Keeper)
 - [CMOS](https://speed-cmos.com/index.html) - A modern speedcubing timer to enhance your cubing progress / [Download](https://speed-cmos.com/download.html) / [v2](https://speed-cmos.com/v2/)
 - [Tempus](https://github.com/RonSkons/Tempus-Cube-Timer)
+- CuberDesktop - Desktop version of Cuber / [Latest Release](https://github.com/jvqtil/CuberDesktop/releases/latest) / [GitHub](https://github.com/jvqtil/CuberDesktop)
 
 ## Mobile timers
 
@@ -67,6 +68,8 @@
 - Cube Timer X / [Android](https://play.google.com/store/apps/details?id=com.Slurple.cube_timer_x)
 - Nano Timer / [Android](https://play.google.com/store/apps/details?id=com.cube.nanotimer)
 - [SpeedCube Timer](https://speedcubetimer.net/?lang=en) / [Android](https://play.google.com/store/apps/details?id=com.projects.pelayo.speedcubetimer&hl=en) / [iOS](https://apps.apple.com/us/app/speedcube-timer-app/id6758778843)
+- Cube-Vision / [iOS](https://apps.apple.com/us/app/cube-vision/id6794732933) - a speedcubing timer that records and reconstructs your solves using a vision algorithm, providing stats and splits while you practice with your main.
+- Cuber - Cubing app for Android. Timer, scrambles, stats. Material UI / [Android](https://github.com/jvqtil/Cuber/releases/latest) / [GitHub](https://github.com/jvqtil/Cuber)
 
 ## Tournament timers
 

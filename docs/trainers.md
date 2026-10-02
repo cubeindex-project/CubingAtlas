@@ -19,6 +19,7 @@
 - [Megaminx Last Layer Trainers by Reinier Schippers](https://reinierschippers.nl/)
 - [MBLD Trainer](https://ikdknt2.github.io/mbld-trainer/) - a small 3x3 Multi-Blind training log tool
 - [MinxLastLayer](https://minxlastlayer.com/) - learn, identify & recognize every Megaminx last-layer case
+- [Cube Coach](https://cubecoach.app/) / [Android](https://play.google.com/store/apps/details?id=com.cubecoach.app) / [iOS](https://apps.apple.com/app/cube-coach-rubiks-trainer/id6787670197)
 
 ### Website CFOP trainers
 

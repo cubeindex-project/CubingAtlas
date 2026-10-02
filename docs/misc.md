@@ -36,3 +36,4 @@
 - [WCA Competitions Tracker](https://chromewebstore.google.com/detail/wca-competitions-tracker/gecaloboiggfhbpbmegpeflkcochbljn)
 - [Rubik's Cube Generator](https://mikhael-said.github.io/rubikscubegenerator/)
 - [WCA Regulations Assistant](https://regs.oweltonrosie.com/) - Ask questions about the WCA Regulations and Guidelines.
+- [Cube Juggling Rankings](https://cubejuggling.shivambansal.net/) - Verified world rankings for competitive cube juggling.
