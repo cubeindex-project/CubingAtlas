@@ -11,7 +11,7 @@
 - [zen timer](https://zen.priyanshu.org/) - A distraction-free, all-in-one speedcubing timer / [GitHub](https://github.com/priyanshush325/zen-timer)
 - [Timiks](https://timiks.com/) / [GitHub](https://github.com/ngerritsen/timiks)
 - [Artifex Cube](https://artifexcube.com/) - The smart cube timer that shows where you lose time.
-- [SpeedCube Master](https://speedcubemaster.app) - Learn to solve your cube faster and discover the best methods with Speedcube Master / [Android](https://play.google.com/store/apps/details?id=com.scmapptemp) / [Discord](https://discord.gg/uTv2sV9zU2)
+- [SpeedCube Master](https://speedcubemaster.app) - Learn to solve your cube faster and discover the best methods with Speedcube Master / [Android](https://play.google.com/store/apps/details?id=com.scmapptemp) / [iOS](https://apps.apple.com/fm/app/speedcube-master/id6794838130) / [Discord](https://discord.gg/uTv2sV9zU2)
 - [cTimer](https://ctimer.rider.biz/)
 - [MinimalisTimer](https://benpa.ng/minimalistimer/) - A "simple" twisty puzzle timer optimized for both desktop and mobile. / [Material](https://benpa.ng/minimalistimer/material.html) / [GitHub](https://github.com/molarmanful/minimalistimer)
 - [Speedcube.app](https://speedcube.app/) / [GitHub](https://github.com/alecrios/speedcube)
