@@ -35,6 +35,7 @@
 - [Cubyqo.app](https://cubyqo.app/)
 - [SpeedCubeTimer](https://speedcubetimer.vercel.app/)
 - [Cube Club Timer](https://cubeclub.online/) / [iOS](https://apps.apple.com/gb/app/cube-club-timer/id6757330850)
+- [SubX](https://subx.guru/) - Hit your next sub-X. Track every solve.
 
 ## Desktop timers
 
