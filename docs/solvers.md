@@ -6,6 +6,7 @@
 - [CubeSolver](https://rubiks-cube-solver-app.vercel.app/)
 - [Cube](https://zomaxx.wasmer.app/) - This application solves the Rubik's Cube using the Beginner's Method
 - [CubeSnap](https://cubesnap.app/) - Solve a Rubik's cube from two photos. / [iOS](https://apps.apple.com/us/app/cubesnap-cube-solver/id6778213510)
+- [Cube Solver Lab](https://cube-solver.org/) - Free, open-source solver for 2x2 to 15x15 cubes, Pyraminx, Skewb and Megaminx, with 3D step-by-step playback / [GitHub](https://github.com/neichen/cube-solver)
 
 ## Desktop solvers
 
