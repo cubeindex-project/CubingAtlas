@@ -14,12 +14,14 @@
 - [SpeedCube Master](https://speedcubemaster.app) - Learn to solve your cube faster and discover the best methods with Speedcube Master / [Android](https://play.google.com/store/apps/details?id=com.scmapptemp) / [iOS](https://apps.apple.com/fm/app/speedcube-master/id6794838130) / [Discord](https://discord.gg/uTv2sV9zU2)
 - [cTimer](https://ctimer.rider.biz/)
 - [MinimalisTimer](https://benpa.ng/minimalistimer/) - A "simple" twisty puzzle timer optimized for both desktop and mobile. / [Material](https://benpa.ng/minimalistimer/material.html) / [GitHub](https://github.com/molarmanful/minimalistimer)
+- [xcross.gg](https://xcross.gg/) - Speedcubing trainer, timer and algorithm library / [Android](https://play.google.com/store/apps/details?id=gg.xcross) / [iOS](https://apps.apple.com/us/app/xcross-gg-timer-rubik-cube/id6800338617)
 - [Speedcube.app](https://speedcube.app/) / [GitHub](https://github.com/alecrios/speedcube)
 - [ScrambleCube](https://www.scramblecube.com/) - Connect a Bluetooth smart cube and turn every solve into insight
 - [3SetTimer](https://benpa.ng/3settimer/) - Built on an older version of MinimalisTimer; 3x3 subset trainer / [GitHub](https://github.com/molarmanful/3settimer)
 - [qqTimer](https://mzrg.com/qqtimer/) / [Documentation](https://mzrg.com/qqtimer/megadoc.html)
 - [Cubemania](https://cubemania.org/) - track of your times, compare yourself with others and become the best
 - [TNoodleTimer](https://www.jfly.fyi/tnt/) - an online timer based off the code used for generating official WCA competition scrambles
+- [Strati Timer](https://strati-timer.com/)
 - [Rubix](https://rubix.lahvi.cz/) - A timer and trainer for the 3×3 cube which times solves phase by phase to show where the seconds go.
 - [cctimer](https://www.cctimer.com/)
 - [cubetimer.io](https://cubetimer.io/)
