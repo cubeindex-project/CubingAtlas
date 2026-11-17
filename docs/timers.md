@@ -2,7 +2,7 @@
 
 ## Web timers
 
-- :star: [CSTimer](https://cstimer.net) - a professional timing program designed for Rubik's cube speedsolvers / [GitHub](https://github.com/cs0x7f/cstimer)
+- [CSTimer](https://cstimer.net) - a professional timing program designed for Rubik's cube speedsolvers / [GitHub](https://github.com/cs0x7f/cstimer)
 - [Acubemy](https://acubemy.com) - The Smart Cube App to Unleash Your Full Cubing Potential / [Android](https://play.google.com/store/apps/details?id=com.acubemy.acubemy) / [iOS](https://apps.apple.com/us/app/acubemy/id6760343507)
 - [Nexus Timer](https://nexustimer.com) - NexusTimer builds your cubing performance profile automatically, per cube, per category. / [Android](https://play.google.com/store/apps/details?id=com.nexustimer) / [GitHub](https://github.com/bryanlundberg/NexusTimer)
 - [Kitsune Cube](https://kitsunecube.com/) - A gamified smart cube companion
@@ -47,8 +47,8 @@
 
 ## Mobile timers
 
-- :star: Cubic Timer / [Android](https://play.google.com/store/apps/details?id=com.hatopigeon.cubictimer) / [GitHub](https://github.com/hato-ya/CubicTimer)
-- :star: Cube time / [iOS](https://apps.apple.com/us/app/cubetime/id1600392245)
+- Cubic Timer / [Android](https://play.google.com/store/apps/details?id=com.hatopigeon.cubictimer) / [GitHub](https://github.com/hato-ya/CubicTimer)
+- Cube time / [iOS](https://apps.apple.com/us/app/cubetime/id1600392245)
 - Last Cube X / [iOS](https://apps.apple.com/us/app/last-cube-x-cube-timer/id1661241296) / [Android](https://play.google.com/store/apps/details?id=com.lastcube.client.android)
 - Twisty Timer / [Android](https://play.google.com/store/apps/details?id=com.aricneto.twistytimer) / [GitHub](https://github.com/aricneto/TwistyTimer)
 - Cube Timer - Tesseract / [iOS](https://apps.apple.com/us/app/cube-timer-tesseract/id6769840976)
@@ -73,7 +73,7 @@
 
 ## Tournament timers
 
-- :star: [Let's Cube](https://www.letscube.net/) - Race against cubers anywhere anytime / [GitHub](https://github.com/coder13/letscube)
+- [Let's Cube](https://www.letscube.net/) - Race against cubers anywhere anytime / [GitHub](https://github.com/coder13/letscube)
 - [cubers.io](https://www.cubers.io) - Participate in WCA-style speedcubing competitions! / [Launch Announcement](https://www.reddit.com/r/Cubers/comments/9ercig/launch_of_cubersio/)
 - [Cubing Time](https://cubingtime.com/)
 - [vscubing](https://vscubing.com/landing) - Join the exciting world of virtual speedcubing / [GitHub](https://github.com/vscubing)
