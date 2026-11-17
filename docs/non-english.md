@@ -12,7 +12,7 @@
 
 ### Community / Communauté
 
-- [Francocube](https://www.francocube.com/) / [Forum](https://forum.francocube.com/) / [X (aka Twitter)](https://x.com/ForumFrancocube)
+- [Francocube](https://www.francocube.com/) / [Forum](https://forum.francocube.com/) / [X](https://x.com/ForumFrancocube)
 - [SKY Team](https://discord.gg/3XG3PZHwne)
 
 ### YouTube Creators / Créateurs YouTube
@@ -45,8 +45,8 @@
 
 ## Spanish / Español
 
-- [Asociación Española de Speedcubing](https://speedcubingspain.org/) / [YouTube](https://www.youtube.com/channel/UCryvWN5_nrvi9af0EPxEY5g) / [X (aka Twitter)](https://x.com/AESpeedcubing/) / [Twitch](https://www.twitch.tv/aespeedcubing/) / [Facebook](https://www.facebook.com/AESpeedcubing/)
-- [Cubéate](http://cubeate.es/) / [X (aka Twitter)](https://x.com/cubeate)
+- [Asociación Española de Speedcubing](https://speedcubingspain.org/) / [YouTube](https://www.youtube.com/channel/UCryvWN5_nrvi9af0EPxEY5g) / [X](https://x.com/AESpeedcubing/) / [Twitch](https://www.twitch.tv/aespeedcubing/) / [Facebook](https://www.facebook.com/AESpeedcubing/)
+- [Cubéate](http://cubeate.es/) / [X](https://x.com/cubeate)
 
 ## Japanese / 日本語
 
