@@ -13,6 +13,7 @@
 - [Grubiks](https://www.grubiks.com/) - Online 3D Puzzles and Solvers
 - [Magic Cube Puzzle Web App](https://cube-puzzle.com/) - A magic cube puzzle simulator web app for touch devices and desktop computers.
 - [hi-games.net](https://hi-games.net/cube/) - Virtual 3x3x3 cube simulator with highscores and animated replays!
+- [QWERTYcube](https://selliott512.github.io/qwertycube/) - A fast keyboard and mouse puzzle cube simulator for scrambling, solving, and focused practice in your browser. / [GitHub](https://github.com/selliott512/qwertycube)
 
 ## Desktop
 
