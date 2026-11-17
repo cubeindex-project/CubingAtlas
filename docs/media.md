@@ -3,8 +3,8 @@
 ## YouTube channels
 
 - Tao Yu / [YouTube](https://www.youtube.com/@TaoxYu) / [WCA Profile](https://www.worldcubeassociation.org/persons/2012YUTA01)
-- [Swift Cubing - Charlie Eggins Speedcuber](https://swiftcubing.com/) / [Youtube](https://www.youtube.com/@swiftcubing)
-- [cyotheking](https://www.cyotheking.com/) / [Youtube](https://www.youtube.com/@cyotheking)
+- [Swift Cubing - Charlie Eggins Speedcuber](https://swiftcubing.com/) / [YouTube](https://www.youtube.com/@swiftcubing)
+- [cyotheking](https://www.cyotheking.com/) / [YouTube](https://www.youtube.com/@cyotheking)
 - CubeHead / [YouTube](https://www.youtube.com/@CubeHead)
 - STUCUBE / [YouTube](https://www.youtube.com/@STUCUBE)
 - J Perm / [YouTube](https://www.youtube.com/@JPerm)
