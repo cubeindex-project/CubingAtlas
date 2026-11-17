@@ -21,6 +21,7 @@
 - [MinxLastLayer](https://minxlastlayer.com/) - learn, identify & recognize every Megaminx last-layer case
 - [Cube Coach](https://cubecoach.app/) / [Android](https://play.google.com/store/apps/details?id=com.cubecoach.app) / [iOS](https://apps.apple.com/app/cube-coach-rubiks-trainer/id6787670197)
 - [BLDTrainer](https://bldtrainer.pages.dev/)
+- [ZBTrain](https://zbtrain.vercel.app/) - A Trainer for the ZB Method (ZBLS, ZBLL, and even LSLL!) / [GitHub](https://github.com/loltreeman/ZBTrain)
 
 ### Website CFOP trainers
 
