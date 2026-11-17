@@ -1,0 +1,66 @@
+.vp-doc a.platform-icon-link {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.vp-doc a.platform-icon-link::after {
+  display: none;
+}
+
+.platform-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  background-color: currentColor;
+  -webkit-mask: var(--platform-icon) center / contain no-repeat;
+  mask: var(--platform-icon) center / contain no-repeat;
+}
+
+.platform-icon--github {
+  --platform-icon: url("/icons/github.svg");
+}
+
+.platform-icon--youtube {
+  --platform-icon: url("/icons/youtube.svg");
+}
+
+.platform-icon--android {
+  --platform-icon: url("/icons/android.svg");
+}
+
+.platform-icon--ios {
+  --platform-icon: url("/icons/ios.svg");
+}
+
+.platform-icon--reddit {
+  --platform-icon: url("/icons/reddit.svg");
+}
+
+.platform-icon--discord {
+  --platform-icon: url("/icons/discord.svg");
+}
+
+.platform-icon--instagram {
+  --platform-icon: url("/icons/instagram.svg");
+}
+
+.platform-icon--x {
+  --platform-icon: url("/icons/x.svg");
+}
+
+.platform-icon--facebook {
+  --platform-icon: url("/icons/facebook.svg");
+}
+
+.platform-icon--twitch {
+  --platform-icon: url("/icons/twitch.svg");
+}
+
+.platform-icon--npm {
+  --platform-icon: url("/icons/npm.svg");
+}
+
+.platform-icon--spotify {
+  --platform-icon: url("/icons/spotify.svg");
+}

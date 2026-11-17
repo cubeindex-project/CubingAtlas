@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
 import { tagsPlugin } from "./tags/index.mts";
+import { iconsPlugin } from "./icons/index.mts";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -88,7 +89,8 @@ export default defineConfig({
 
   markdown: {
     config(md) {
-      tagsPlugin(md)
+      tagsPlugin(md);
+      iconsPlugin(md);
     },
   },
 
