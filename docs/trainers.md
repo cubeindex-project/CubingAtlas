@@ -23,6 +23,7 @@
 - [BLDTrainer](https://bldtrainer.pages.dev/)
 - [ZBTrain](https://zbtrain.vercel.app/) - A Trainer for the ZB Method (ZBLS, ZBLL, and even LSLL!) / [GitHub](https://github.com/loltreeman/ZBTrain)
 - [Smart Cube 3-style](https://smartcube-3style.sylvermyst.com/) - A minimalist 3-style method trainer for bluetooth smart cubes. / [GitHub](https://github.com/AlphaSheep/smartcube-3style)
+- [cubingdino](https://cubingdino.com/) - Advanced Speedcubing Tools and Knowledge
 
 ### Website CFOP trainers
 
