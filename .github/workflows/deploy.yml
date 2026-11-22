@@ -49,8 +49,8 @@ jobs:
         uses: actions/cache@v4
         with:
           path: docs/public/screenshots
-          key: screenshots-v1-${{ hashFiles('docs/**/*.md', 'scripts/generate-screenshots.mts') }}
-          restore-keys: screenshots-v1-
+          key: screenshots-v2-${{ hashFiles('docs/**/*.md', 'scripts/generate-screenshots.mts') }}
+          restore-keys: screenshots-v2-
       - name: Generate missing screenshots
         run: node scripts/generate-screenshots.mts --install-browser
       - name: Build with VitePress

@@ -20,7 +20,7 @@ export function screenshotsPlugin(md: MarkdownRenderer) {
               .digest("hex")
               .slice(0, 16);
 
-            const candidate = `${hash}.png`;
+            const candidate = `${hash}.webp`;
             if (
               existsSync(
                 new URL(`../../public/screenshots/${candidate}`, import.meta.url),

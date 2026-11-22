@@ -1,9 +1,10 @@
-import { glob, readFile } from "node:fs/promises";
+import { glob, mkdir, readFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import MarkdownIt from "markdown-it";
 import { chromium } from "@playwright/test";
 import { createHash } from "node:crypto";
+import sharp from "sharp";
 
 const md = new MarkdownIt();
 
@@ -70,9 +71,11 @@ for (const link of links) {
   if (domainsToSkipScreenshots.includes(hostname)) continue;
 
   const hash = createHash("sha256").update(link).digest("hex").slice(0, 16);
-  const path = `docs/public/screenshots/${hash}.png`;
+  const path = `docs/public/screenshots/${hash}.webp`;
   if (!existsSync(path)) pending.push({ link, path });
 }
+
+await mkdir("docs/public/screenshots", { recursive: true });
 
 if (pending.length === 0) {
   console.log("No missing screenshots.");
@@ -101,11 +104,15 @@ if (pending.length === 0) {
         for (const { link, path } of jobs) {
           try {
             await page.goto(link, { waitUntil: "load", timeout: 15_000 });
-            await page.screenshot({
+            const screenshot = await page.screenshot({
               path,
               animations: "disabled",
               timeout: 10_000,
             });
+            await sharp(screenshot)
+              .resize({ width: 1120, withoutEnlargement: true })
+              .webp({ quality: 82 })
+              .toFile(path);
           } catch (error) {
             console.warn(`Skipping ${link}:`, error);
           }
