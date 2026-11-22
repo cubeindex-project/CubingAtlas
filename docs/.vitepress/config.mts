@@ -1,7 +1,23 @@
+import { execFileSync } from "node:child_process";
 import { defineConfig } from "vitepress";
+
 import { tagsPlugin } from "./tags/index.mts";
 import { iconsPlugin } from "./icons/index.mts";
 import { screenshotsPlugin } from "./screenshots/index.mts";
+
+function getBuildCommit() {
+  try {
+    return execFileSync("git", ["rev-parse", "HEAD"], {
+      cwd: new URL(".", import.meta.url),
+      encoding: "utf8",
+      stdio: ["ignore", "pipe", "ignore"],
+    }).trim();
+  } catch {
+    return undefined;
+  }
+}
+
+const buildCommit = getBuildCommit();
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -83,7 +99,9 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "Released under the GPL-3.0 License.",
+      message: buildCommit
+        ? `Released under the GPL-3.0 License. Built from commit <a href="https://github.com/cubeindex-project/CubingAtlas/commit/${buildCommit}">${buildCommit.slice(0, 7)}</a>.`
+        : "Released under the GPL-3.0 License.",
       copyright: `Copyright © 2026-${new Date().getFullYear()} <a href="https://github.com/cubeindex-project">CubeIndex Project</a>`,
     },
   },

@@ -1,8 +1,10 @@
-import { MarkdownRenderer } from "vitepress";
+import { fileURLToPath } from "node:url";
+import type { MarkdownRenderer } from "vitepress";
+import { getRecentSites, listingPath, siteLinks } from "../../../scripts/new-badges.mts";
 
 type TagTypes = 'info' | 'note' | 'tip' | 'important' | 'caution' | 'warning' | 'danger'
 
-type TagKeys = "timer" | "paid" | "podcast"
+type TagKeys = "timer" | "paid" | "podcast" | "new"
 
 interface TagDefinition {
     label: string
@@ -23,6 +25,10 @@ export const atlasTags: Tags = {
   podcast: {
     label: "Podcast",
     type: 'info'
+  },
+  new: {
+    label: "New",
+    type: "tip",
   }
 } as const;
 
@@ -38,7 +44,7 @@ export function tagsPlugin(md: MarkdownRenderer) {
     const tagName = match[1] as TagKeys;
     const tag = atlasTags[tagName];
 
-    if (!tag) {
+    if (!tag || tagName === "new") {
       return false;
     }
 
@@ -51,10 +57,30 @@ export function tagsPlugin(md: MarkdownRenderer) {
     return true;
   });
 
-  md.renderer.rules["cubingatlas-tag"] = (tokens, index) => {
-    const tagName = tokens[index].content as keyof typeof atlasTags;
-    const tag = atlasTags[tagName];
+  const recentSites = getRecentSites(fileURLToPath(new URL("../../../", import.meta.url)));
+  if (recentSites.size > 0) {
+    md.core.ruler.after("inline", "cubingatlas-recent-site-tags", (state) => {
+      if (!listingPath.test(`docs/${state.env.relativePath}`)) return;
 
-    return `<Badge type="${tag.type}" text="${tag.label}" />`;
+      for (const { url, children, end } of siteLinks(state.tokens)) {
+        const expiresAt = recentSites.get(url);
+        if (!expiresAt) continue;
+
+        const token = new state.Token("cubingatlas-tag", "", 0);
+        token.content = "new";
+        token.meta = { expiresAt };
+        children.splice(end + 1, 0, token);
+      }
+    });
+  }
+
+  md.renderer.rules["cubingatlas-tag"] = (tokens, index) => {
+    const { content, meta } = tokens[index];
+    const tag = atlasTags[content as TagKeys];
+    const badge = `<Badge type="${tag.type}" text="${tag.label}" />`;
+
+    return meta?.expiresAt
+      ? ` <ExpiringBadge :expires-at="${meta.expiresAt}">${badge}</ExpiringBadge>`
+      : badge;
   };
 }
