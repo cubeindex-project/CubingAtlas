@@ -15,7 +15,7 @@ for await (const file of glob("docs/**/*.md")) {
 markdownFiles.sort();
 
 const links = new Set<string>();
-const domainsToSkipScreenshots = [
+const ignoredDomains = [
   "github.com",
   "play.google.com",
   "apps.apple.com",
@@ -68,7 +68,7 @@ for (const file of markdownFiles) {
 const pending: { link: string; path: string }[] = [];
 for (const link of links) {
   const hostname = new URL(link).hostname.replace(/^www\./, "");
-  if (domainsToSkipScreenshots.includes(hostname)) continue;
+  if (ignoredDomains.includes(hostname)) continue;
 
   const hash = createHash("sha256").update(link).digest("hex").slice(0, 16);
   const path = `docs/public/screenshots/${hash}.webp`;
