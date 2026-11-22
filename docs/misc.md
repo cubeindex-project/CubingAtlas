@@ -38,3 +38,5 @@
 - [WCA Regulations Assistant](https://regs.oweltonrosie.com/) - Ask questions about the WCA Regulations and Guidelines.
 - [Cube Juggling Rankings](https://cubejuggling.shivambansal.net/) - Verified world rankings for competitive cube juggling.
 - [PB or Fluke?](https://yumemogura.github.io/wca-performance-analyzer/)
+- [solve.vision](https://solve.vision/) - Reconstruct your solves
+from video.
