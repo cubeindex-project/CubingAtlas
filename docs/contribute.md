@@ -33,11 +33,12 @@ Each directory page has an **Edit this page on GitHub** link. For small correcti
 1. Fork the [CubingAtlas repository](https://github.com/cubeindex-project/CubingAtlas) and create a branch for your change.
 2. Edit the relevant Markdown file in `docs/`.
 3. Keep listings consistent with the surrounding entries. Use a direct link, a concise description, and optional supporting links separated by `/`.
-4. If you are working locally, install dependencies with `npm i` and check the site with:
+4. If you are working locally, install dependencies and check the site with:
 
-   ```sh
-   npm run docs:build
-   ```
+```sh
+npm install
+npm run docs:build
+```
 
 5. Open a pull request that explains what you added, changed, or removed.
 
