@@ -51,7 +51,7 @@
 - Cube time / [iOS](https://apps.apple.com/us/app/cubetime/id1600392245)
 - Last Cube X / [iOS](https://apps.apple.com/us/app/last-cube-x-cube-timer/id1661241296) / [Android](https://play.google.com/store/apps/details?id=com.lastcube.client.android)
 - Twisty Timer / [Android](https://play.google.com/store/apps/details?id=com.aricneto.twistytimer) / [GitHub](https://github.com/aricneto/TwistyTimer)
-- Cube Timer - Tesseract / [iOS](https://apps.apple.com/us/app/cube-timer-tesseract/id6769840976)
+- Cube Timer - Tesseract / [Android](https://play.google.com/store/apps/details?id=com.alim.tesseract) / [iOS](https://apps.apple.com/us/app/cube-timer-tesseract/id6769840976)
 - Cube Rivals / [Android](https://play.google.com/store/apps/details?id=com.anonymous.Cuberivals)
 - The Cube App / [iOS](https://apps.apple.com/us/app/the-cube-app/id1247162314)
 - Finger Timer / [Android](https://play.google.com/store/apps/details?id=air.tw.url.omega.FingerTimer) / [iOS](https://apps.apple.com/us/app/finger-timer/id586062009)
