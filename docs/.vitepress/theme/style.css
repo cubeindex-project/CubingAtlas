@@ -64,3 +64,32 @@
 .platform-icon--spotify {
   --platform-icon: url("/icons/spotify.svg");
 }
+
+.vp-doc a.has-link-preview {
+  position: relative;
+}
+
+.vp-doc a.has-link-preview > .link-preview {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 10;
+  width: min(560px, 65vw);
+  max-width: none;
+  height: auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg);
+  box-shadow: var(--vp-shadow-3);
+}
+
+.vp-doc a.has-link-preview:focus-visible > .link-preview {
+  display: block;
+}
+
+@media (hover: hover) {
+  .vp-doc a.has-link-preview:hover > .link-preview {
+    display: block;
+  }
+}

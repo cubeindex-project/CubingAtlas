@@ -1,3 +1,11 @@
 node_modules
 links-report.md
 .lycheecache
+docs/public/screenshots
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
