@@ -1,3 +1,4 @@
+// TODO: Needs to be redone in a more human readable way.
 import { execFileSync, spawnSync } from "node:child_process";
 import MarkdownIt, { type Token } from "markdown-it";
 
@@ -76,4 +77,3 @@ export function getRecentSites(cwd: string, now = Date.now()) {
   }
   return recent;
 }
-
