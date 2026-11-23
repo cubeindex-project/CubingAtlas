@@ -3,7 +3,7 @@
 ## Website
 
 - [crystalcube trainers](https://crystalcuber.com/) / [CFOP cross trainer](https://crystalcuber.com/train/cross) / [ZZ EO trainer](https://crystalcuber.com/train/eo) / [one handed scrambles](https://crystalcuber.com/tools/ohscramble) / [GitHub](https://github.com/crystalcuber/crystalcube)
-- [Solved? No?](https://www.solved.no/) - Solved? No? Great! Improve your cubing skills here
+- [Solved.no](https://www.solved.no/) - Solved? No? Great! Improve your cubing skills here
 - [Cubedex](https://cubedex.app/) - Quickly train Rubik's cube algorithms using a smartcube or a dumbcube / [GitHub](https://github.com/poliva/cubedex)
 - [Brief Drills](https://briefcubing.com/)
 - [ZBLL Trainer](https://bestsiteever.net/zbll/)
