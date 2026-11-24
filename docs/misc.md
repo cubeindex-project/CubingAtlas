@@ -40,3 +40,4 @@
 - [PB or Fluke?](https://yumemogura.github.io/wca-performance-analyzer/)
 - [solve.vision](https://solve.vision/) - Reconstruct your solves
 from video.
+- [CubeMosaic](https://cubemosaic.netlify.app/) - Tool to create, build and share cube mosaics
