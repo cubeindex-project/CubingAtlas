@@ -69,7 +69,7 @@
 
 ## Portugese / Português
 
-- [Associação Brasileira de Cubo Mágico](https://www.abracm.org.br/)
+- [Associação Brasileira de Cubo Mágico](https://abcubomagico.com.br/)
 
 ## Italian / Italiano
 
